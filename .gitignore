@@ -1,4 +1,2 @@
-cat > .gitignore <<'EOF'
 .env
 *.log
-EOF

@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # Campus Meetup
 
 ## Event Purpose
@@ -9,4 +8,3 @@ To organise a campus meetup for students.
 
 ## Event Name
 Campus Meetup
-EOF
